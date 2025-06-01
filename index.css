@@ -1,4 +1,11 @@
-body {
+
+h1 {
   text-align: center;
   font-family: 'Arial';
+  background: rgb(25, 8, 34);
+  color: rgb(243, 244, 210);
+}
+
+img{
+  width: 200px;
 }
